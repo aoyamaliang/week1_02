@@ -68,8 +68,9 @@ body{
     left:40px;
 }
 
-/* 讓同一行的圖片和文字垂直居中對齊 */
-/* 在圖片和文字所在的行中，各添加 CSS 屬性：vertical-align: middle; */
+/* 讓同一行的圖片和文字垂直居中對齊 
+在圖片和文字所在的行中，各添加 CSS 屬性：vertical-align: middle; */
+
 .account img{
     vertical-align: middle;
 }
