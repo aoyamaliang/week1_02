@@ -263,7 +263,7 @@ margin: 24px 0;
 
 }
 
-img{
+.img{
     opacity:0;
     animation: appear-text 0.0001s linear forwards;
     animation-delay:1.4s;
