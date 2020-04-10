@@ -1,38 +1,11 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 31.494 31.494" style="enable-background:new 0 0 31.494 31.494;" xml:space="preserve">
-<path style="fill:#1E201D;" d="M10.273,5.009c0.444-0.444,1.143-0.444,1.587,0c0.429,0.429,0.429,1.143,0,1.571l-8.047,8.047h26.554
-	c0.619,0,1.127,0.492,1.127,1.111c0,0.619-0.508,1.127-1.127,1.127H3.813l8.047,8.032c0.429,0.444,0.429,1.159,0,1.587
-	c-0.444,0.444-1.143,0.444-1.587,0l-9.952-9.952c-0.429-0.429-0.429-1.143,0-1.571L10.273,5.009z"/>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="342px" viewBox="0 0 512 342" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon_arrow_right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_arrow_right" transform="translate(256.000000, 171.000000) rotate(-180.000000) translate(-256.000000, -171.000000) " fill="#000000" fill-rule="nonzero">
+            <path d="M508.875,163.458 L348.875,3.458 C344.708,-0.709 337.958,-0.709 333.792,3.458 C329.625,7.625 329.625,14.375 333.792,18.541 L475.584,160.333 L10.667,160.333 C4.771,160.333 0,165.104 0,171 C0,176.896 4.771,181.667 10.667,181.667 L475.584,181.667 L333.792,323.458 C329.625,327.625 329.625,334.375 333.792,338.541 C335.875,340.624 338.605,341.666 341.334,341.666 C344.063,341.666 346.792,340.624 348.876,338.541 L508.876,178.541 C513.042,174.375 513.042,167.625 508.875,163.458 Z" id="Path"></path>
+        </g>
+    </g>
 </svg>
